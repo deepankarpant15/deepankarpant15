@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Sofware developer from India</h3>
 <img align="right" alt ="coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611iwq533cn6biv4yi5oeivgp259ew66ascmxo6sk74&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **Laravel, Node.js**
 
 - 📫 How to reach me **deepankarpant.2002@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-gilt-rho-44.vercel.app/](https://portfolio-gilt-rho-44.vercel.app/)
+<!--  📄 Know about my experiences [https://portfolio-gilt-rho-44.vercel.app/](https://portfolio-gilt-rho-44.vercel.app/) -->
 
 - ⚡ Fun fact **I think I am kinda emo 😏**
 
